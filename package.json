@@ -1,6 +1,6 @@
 {
   "license": "ISC",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "mdos-san",
   "name": "@mds-coding/database-provider-abstract",
   "description": "`DatabaseProviderAbstract` abstract class",
@@ -8,6 +8,7 @@
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "scripts": {
+    "prepack": "npm run build",
     "build": "tsc -p ./tsconfig.json",
     "test": "jest"
   },
