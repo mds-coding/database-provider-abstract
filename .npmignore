@@ -1,0 +1,4 @@
+*.tgz
+jest.config.js
+src
+tsconfig.json
