@@ -1,6 +1,6 @@
 {
   "license": "ISC",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "mdos-san",
   "name": "@mds-coding/database-provider-abstract",
   "description": "`DatabaseProviderAbstract` abstract class",
@@ -13,8 +13,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@mds-coding/database-entity": "^2.0.0",
-    "@mds-coding/database-query": "^2.0.0"
+    "@mds-coding/database-entity": "^3.0.0",
+    "@mds-coding/database-query": "^3.0.0"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
